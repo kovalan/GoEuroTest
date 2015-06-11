@@ -46,6 +46,7 @@ public class CSVWriter {
 	        try {
 	            writer = new BufferedWriter(new FileWriter(fileName));
 	            writer.write(output);
+	            GoEuroLogger.logInfo("CSV file successfully created in: " + fileName);
 	        } catch (IOException e) {
 	        	GoEuroLogger.logError("Error when writting to CSV file: "+e.getMessage());
 	        } finally {
