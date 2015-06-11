@@ -1,7 +1,0 @@
-Manifest-Version: 1.0
-Main-Class: com.goeuro.datatransformer.main.TransformerMain
-Class-Path: lib/aopalliance-1.0.jar	lib/commons-logging-1.1.1.jar	lib/jackson-core-asl-1.9.13.jar	lib/jackson-mapper-asl-1.9.13.jar	lib/spring-aop-3.0.2.RELEASE.jar	lib/spring-asm-3.0.2.RELEASE.jar	lib/spring-beans-3.0.2.RELEASE.jar	lib/spring-context-3.0.2.RELEASE.jar	lib/spring-core-3.0.2.RELEASE.jar
- lib/spring-expression-3.0.2.RELEASE.jar
- lib/spring-web-3.0.2.RELEASE.jar
- 
- 
